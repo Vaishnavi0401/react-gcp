@@ -1,4 +1,4 @@
-Watch the demo at https://youtu.be/GIM5irN4Ix0
+Followed demo at https://youtu.be/GIM5irN4Ix0
 
 # Getting Started
 
